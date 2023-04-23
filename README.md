@@ -1,5 +1,5 @@
 # Double-membrane_spacing
-This script is used to calculate the distance between two close membranes: membrane1 and membrane2 (e.g. double membrane of some organellels).
+This MATLAB script is used to calculate the distance between two close membranes: membrane1 and membrane2 (e.g. double membrane of some organellels).
 The output file 'memb_dist1.bild' shows double-membrane distances distribution can be read in Chimera software.
 
 Notes: this script relies on TOM software toolbox, which contains essential function (e.i. tom_mrcread)

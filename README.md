@@ -8,4 +8,4 @@ Nickell et al., 'TOM software toolbox: acquisition and analysis for electron tom
 Journal of Structural Biology, 149 (2005), 227-234.
 
 
-![图片1](https://github.com/user-attachments/assets/bd43e22b-2688-4280-b57c-b3cc41703013)
+![Uploading 图片1.png…]()

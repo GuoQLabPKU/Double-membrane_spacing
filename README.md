@@ -7,6 +7,7 @@ The package of TOM software toolbox can be fonud in this paper:
 Nickell et al., 'TOM software toolbox: acquisition and analysis for electron tomography',
 Journal of Structural Biology, 149 (2005), 227-234.
 
-![图片1](https://github.com/user-attachments/assets/f563c294-3d57-419b-bec9-af1c99acf9da)
+
+![Snipaste_2025-01-09_09-41-13](https://github.com/user-attachments/assets/c7bdf25e-d74a-4eca-8097-d20574031ff1)
 
 
